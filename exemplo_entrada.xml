@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EXEMPLO>
+  <R01 prioridade="1" tamanho="5" dependencia="" />
+  <R02 prioridade="2" tamanho="4" dependencia="R01" />
+  <R03 prioridade="4" tamanho="4" dependencia="R01" />
+  <R04 prioridade="2" tamanho="4" dependencia="R01" />
+  <R05 prioridade="6" tamanho="4" dependencia="R01" />
+  <R06 prioridade="3" tamanho="3" dependencia="R02" />
+  <R07 prioridade="4" tamanho="3" dependencia="R03" />
+  <R08 prioridade="4" tamanho="2" dependencia="R03" />
+  <R09 prioridade="2" tamanho="2" dependencia="R04" />
+  <R10 prioridade="3" tamanho="2" dependencia="R02" />
+  <R11 prioridade="6" tamanho="2" dependencia="R05" />
+  <R12 prioridade="5" tamanho="3" dependencia="R16" />
+  <R13 prioridade="4" tamanho="3" dependencia="R03" />
+  <R14 prioridade="2" tamanho="3" dependencia="R04" />
+  <R15 prioridade="6" tamanho="3" dependencia="R05" />
+  <R16 prioridade="5" tamanho="4" dependencia="R01" />
+  <R17 prioridade="5" tamanho="3" dependencia="R16" />
+
+</EXEMPLO>
